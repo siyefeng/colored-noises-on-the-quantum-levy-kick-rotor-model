@@ -1,0 +1,23 @@
+# ── Generated numerical output ───────────────────────────────────────────────
+# Written by result_cal.jl and quantum_kick_rotor2.jl.
+result_cal.mat
+quantumkick2.mat
+autocal.mat
+StandardMap.gif
+
+# ── Julia ────────────────────────────────────────────────────────────────────
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/docs/build/
+
+# ── MATLAB ───────────────────────────────────────────────────────────────────
+*.asv
+*.m~
+
+# ── Editors / OS ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
